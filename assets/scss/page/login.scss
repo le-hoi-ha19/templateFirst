@@ -1,0 +1,39 @@
+@import '../bootstrap/custom-bootstrap.scss';
+
+.logo {
+    width: 155px;
+}
+
+.block_left {
+    padding: 48px;
+}
+
+.form_login {
+    width: 400px;
+    height: 455px;
+    background-color: hotpink;
+    margin-top: 150px;
+}
+
+.form_login_head {
+    margin-bottom: 32px;
+
+}
+
+.title {
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 36px;
+    color: $primary_text_heading;
+}
+
+.description {
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 22.6px;
+    color: $primary_text_body;
+}
+
+.wrapper_input {
+    border-color: $primary_border;
+}
